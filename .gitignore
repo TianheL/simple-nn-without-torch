@@ -1,0 +1,6 @@
+*.gz
+/report
+/useless
+*/__pycache__
+*.pkl
+search_vis.ipynb
